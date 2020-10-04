@@ -5,6 +5,10 @@ Inside the folder is "Progress-snapshot-1".
 This will be updated every few days. 
 
 It is 100% JS.
+
+The link to KA for this project: 
+
+https://www.khanacademy.org/computer-programming/i/6148844648873984
 _____________________
  
    -MEMBERS-
