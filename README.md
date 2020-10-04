@@ -1,12 +1,12 @@
-This is the curent progress of Amoung Us made by KA users.
+This is the current progress of Among Us made by KA users.
 
 Inside the folder is "Progress-snapshot-1".
 
-This will be updated every few days. 
+This will be updated every few days.
 
 It is 100% JS.
 
-The link to KA for this project: 
+The link to KA for this project:
 
 https://www.khanacademy.org/computer-programming/i/6148844648873984
 _____________________
