@@ -6,23 +6,35 @@ This will be updated every few days.
 
 It is 100% JS.
 
-   -Members-
+ 
+   -MEMBERS-
 
-  Gameplay
+  -GAMEPLAY-
+
 
 Squishy
+
 ᙏσɾι ﻞιɳ
+
 DauntlessStudios
+
 Ronnoc
+
 Zushah
+
 j.s. coder
+
 𝔩 𝔦 𝔱 𝔱 𝔩 𝔢 𝔴 𝔥 𝔦 𝔫 𝔤 𝔦 𝔫 𝔤 ッ
+
 AquA217
+
 Samfect Enterprises /_\
+
 𝐇𝐉𝐊𝐃
 
   
-  Graphics
+  -GRAPHICS-
+
 
 |-VEXCESS-|
 
@@ -51,7 +63,8 @@ UltraMasterC
 WinstonMan3
 
 
-  Code Testers
+  -CODE TESTERS-
+
 
 CtmGamer
 
@@ -86,6 +99,7 @@ Qwerty Uiop
 Hunter
 
 
-  Helpers
+  -HELPERS-
+
 
 Prisha
